@@ -16,4 +16,6 @@ function draw()
 	//draw the red rectangle 
 	rect(100, 50, 600, 600);
 
+
+
 }
